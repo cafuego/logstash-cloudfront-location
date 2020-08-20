@@ -1,0 +1,1 @@
+CLOUDFRONT_EDGE_LOCATION (?<iata.code>[A-Z]{3})[0-9]{2}-[0-9A-Z]{2}
