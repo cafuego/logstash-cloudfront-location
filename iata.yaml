@@ -1190,7 +1190,7 @@ CBH: Béchar, DZ
 CBI: Cape Barren Island Airport, AU
 CBJ: Cabo Rojo, DO
 CBK: Colby, US
-CBL: "Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar", VE
+CBL: Ciudad Bolivar, VE
 CBM: Columbus, US
 CBN: Cirebon-Java Island, ID
 CBO: Cotabato City, PH
@@ -1474,7 +1474,6 @@ CNR: Chañaral, CL
 CNS: Cairns, AU
 CNT: Charata, AR
 CNU: Chanute, US
-CNV9: "Neuville, CA
 CNV: Canavieiras, BR
 CNW: Waco, US
 CNX: Chiang Mai, TH
@@ -1680,7 +1679,6 @@ CYC: Caye Chapel, BZ
 CYD: San Ignacio, BZ
 CYF: Chefornak, US
 CYG: Corryong Airport, AU
-CYGD: "Goderich, CA
 CYI: Chiayi City, TW
 CYL: Coyoles, HN
 CYM: Chatham, US
@@ -1689,7 +1687,6 @@ CYP: Calbayog City, PH
 CYR: Colonia del Sacramento, UY
 CYS: Cheyenne, US
 CYT: Yakataga, US
-CYTJ: "Terrace Bay, CA
 CYU: Cuyo, PH
 CYW: Celaya, MX
 CYX: Cherskiy, RU
@@ -2084,7 +2081,6 @@ EGH: El Gora, EG
 EGI: Crestview, US
 EGL: Negele Borana, ET
 EGM: Sege, SB
-EGMD: "Lydd, GB
 EGN: Geneina, SD
 EGO: Belgorod, RU
 EGP: Eagle Pass, US
@@ -2111,7 +2107,6 @@ EKB: Ekibastuz, KZ
 EKD: Elkedra Airport, AU
 EKI: Elkhart, US
 EKN: Elkins, US
-EKNM: DK-81, EU
 EKO: Elko, US
 EKS: Shakhtersk, RU
 EKT: Eskilstuna, SE
@@ -2572,12 +2567,10 @@ GBZ: Claris, NZ
 GCA: Guacamayas, CO
 GCC: Gillette, US
 GCD: Electric City, US
-GCGM: "Alajero, ES
 GCH: Gachsaran, IR
 GCI: Saint Peter Port, GG
 GCJ: Midrand, ZA
 GCK: Garden City, US
-GCLA: "Sta Cruz de la Palma, ES
 GCM: Georgetown, KY
 GCN: Grand Canyon, US
 GCT: Whitmore, US
@@ -2994,7 +2987,6 @@ HHP: Hong Kong, HK
 HHQ: Hua Hin, TH
 HHR: Hawthorne, US
 HHZ: Hikueru Atoll, PF
-HI22: "San Jose, MP
 HIA: Huai'an, CN
 HIB: Hibbing, US
 HID: Horn Island, AU
@@ -4065,7 +4057,6 @@ KTS: Brevig Mission, US
 KTT: Kittilä, FI
 KTU: Kota, IN
 KTV: Kamarata, VE
-KTVR: "Tallulah/Vicksburg, US
 KTW: Katowice, PL
 KTX: Koutiala, ML
 KTY: Kalutara, LK
@@ -5305,10 +5296,8 @@ NER: Neryungri, RU
 NEU: Sam Neua Airport, LA
 NEV: Charlestown, KN
 NEW: New Orleans, US
-NFBG: "Saqani, FJ
 NFG: Nefteyugansk, RU
 NFL: Fallon, US
-NFTO: "Angaha, TO
 NGA: Young Airport, AU
 NGB: Ningbo, CN
 NGD: Anegada, VG
@@ -5948,8 +5937,6 @@ PGO: Pagosa Springs, US
 PGP: Porto Alegro, ST
 PGR: Paragould, US
 PGU: Asalouyeh, IR
-PGUA: "Yigo, GU
-PGUM: "Hagåtña, GU
 PGV: Greenville, US
 PGX: Périgueux/Bassillac, FR
 PGZ: Ponta Grossa, BR
@@ -6542,36 +6529,15 @@ RJI: Rajouri, IN
 RJK: Rijeka, HR
 RJL: Logroño, ES
 RJN: Rafsanjan Airport, IR
-RK16: "Sanae-ro, KR
-RK1Q: "Beoman-ro, KR
-RK21: "Gyochon, KR
-RK22: "Sinpung, KR
-RK2D: "Boreumdo-ri, KR
-RK3A: "Geoyeo-dong, KR
-RK3J: "ROK 5th Division, KR
-RK3O: "Gan-ri, KR
-RK3S: "Dangu-ro, KR
-RK6V: "Suin-ro, KR
-RK9Z: "Seogeom-ri, KR
-RKA2: "Jangguneomeo, KR
-RKA5: "Boreumdo-ri, KR
-RKA9: "Oebalsan-dong, KR
 RKA: Aratika Nord Airport, PF
-RKB1: "Hyoseong-dong, KR
-RKC9: "Hagwangjeong-ri, KR
 RKD: Rockland, US
 RKE: Copenhagen, DK
 RKH: Rock Hill, US
 RKI: Rokot-Sumatra Island, ID
-RKND: "Jangsan-ri, KR
 RKO: Sipora Island, ID
 RKP: Rockport, US
 RKS: Rock Springs, US
-RKSE: "Sagot-ro, KR
-RKSP: "Bukpo-ri, KR
-RKSY: "Yongsan, KR
 RKT: Ras Al Khaimah, AE
-RKTL: "Bongsan-ri, KR
 RKU: Yule Island, PG
 RKV: Reykjavik, IS
 RKW: Rockwood, US
@@ -6643,7 +6609,6 @@ RPB: Roper Bar, AU
 RPM: Ngukurr Airport, AU
 RPN: Rosh Pina, IL
 RPR: Raipur, IN
-RPSD: "Taytay Airport, PH
 RPV: Roper Valley, AU
 RPX: Roundup, US
 RQO: El Reno, US
@@ -7544,7 +7509,6 @@ TIO: Tilin, MM
 TIP: Tripoli, LY
 TIQ: Tinian Island, MP
 TIR: Tirupati, IN
-TIST: "Charlotte Amalie, VI
 TIU: Timaru Airport, NZ
 TIV: Tivat, ME
 TIW: Tacoma, US
