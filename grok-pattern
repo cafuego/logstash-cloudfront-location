@@ -1,1 +1,1 @@
-CLOUDFRONT_EDGE_LOCATION (?<iata.code>[A-Z]{3})([0-9]+)-[0-9A-Z]+
+CLOUDFRONT_EDGE_LOCATION (?<iata.code>[A-Z]{3})([0-9]+)(-[0-9A-Z]+)?
